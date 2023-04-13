@@ -49,7 +49,7 @@ function App() {
           <Text elemento="h1" estilo="price" conteudo="R$ 4.999,00" />
           <Text elemento="p" estilo="paragraph" conteudo="Tive uma philips com menos de 2 ..." />
 
-          <button className='button_card'> saiba mais {count}</button>
+          <button className='button_card'> saiba mais</button>
         </ContentCard>
       </Card>
     </div>
