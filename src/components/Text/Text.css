@@ -1,0 +1,20 @@
+.title {
+    font-family: Arial, sans-serif;
+    font-size: 26px;
+    font-weight: normal;
+    color: #595959;
+}
+
+.price {
+    font-family: Futura, "Century Gothic", AppleGothic, sans-serif;
+    font-size: 48px;
+    font-weight: normal;
+    color: #948e91;
+}
+
+.paragraph {
+    font-family: Arial, sans-serif;
+    font-size: 26px;
+    font-weight: lighter;
+    color: #948e91;
+}
