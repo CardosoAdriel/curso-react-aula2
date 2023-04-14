@@ -1,0 +1,33 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "srcImage": "https://cdn.gatry.com/gatry-static/promocao/imagem/4919a3ee1b327dcca53c8431a7e19c74.jpg",
+            "title": "Multifuncional HP Smart Tank 514 - Tanque De Tinta (3YW74A), Branco/Vermelho",
+            "price": 879.90,
+            "paragraph": "Epson, sem sombra de dúvidas! Só..."
+        },
+        {
+            "id": 2,
+            "srcImage": "https://cdn.gatry.com/gatry-static/promocao/imagem/aef582f88dadb80b872f943729ac58a4.jpg",
+            "title": "'Smartphone Motorola Moto G32 4G 128GB 4GB RAM Tela 6,5”'",
+            "price": 784.15,
+            "paragraph": "'Aqui deu igual... Cupom HELLOMO...'"
+        },
+        {
+            "id": 3,
+            "srcImage": "https://cdn.gatry.com/gatry-static/promocao/imagem/4915fefbdc2ff2b369e9a1009018eace.jpg",
+            "title": "'Tramontina 43803013, Caixa Plástica 13'",
+            "price": 42.05,
+            "paragraph": "'Tenho e recomendo!'"
+        },
+        {
+            "id": 4,
+            "srcImage": "https://cdn.gatry.com/gatry-static/promocao/imagem/028163a7ccce67aa8ae1caf9d6a335e0.jpg",
+            "title": "'Monitor Acer ZeroFrame 27! IPS LED VGA Inclinação FHD 75Hz 1ms HDMI - K273 B'",
+            "price": 836.27,
+            "paragraph": "'Cupom: EUVOLTEI'"
+        }
+    ],
+    "usuarios": []
+}

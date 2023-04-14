@@ -11,43 +11,11 @@
   gap: 16px;
 }
 
-.card {
-  margin: 0 auto;
-  padding: 16px;
-  width: 850px;
-  background-color: #fff;
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  border-radius: 10px;
-}
-
-.content {
-  text-align: left;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
 .titulo {
   font-family: Arial, sans-serif;
   font-size: 26px;
   font-weight: normal;
   color: #595959;
-}
-
-.price {
-  font-family: Futura, "Century Gothic", AppleGothic, sans-serif;
-  font-size: 48px;
-  font-weight: normal;
-  color: #948e91;
-}
-
-.paragraph {
-  font-family: Arial, sans-serif;
-  font-size: 26px;
-  font-weight: lighter;
-  color: #948e91;
 }
 
 .button_card {

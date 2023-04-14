@@ -1,6 +1,13 @@
 .content {
     text-align: left;
     display: flex;
-    flex-direction: column;
     gap: 10px;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.column {
+    flex-direction: column;
 }

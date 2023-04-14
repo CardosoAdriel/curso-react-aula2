@@ -1,7 +1,7 @@
 import './Image.css'
 
-export default function Image(props) {
+export default function Image({ srcImage }) {
     return <figure className='image'>
-        <img src="https://cdn.gatry.com/gatry-static/promocao/imagem/17d3267ec15aca75061c5fd704a07381.jpg" alt="" />
+        <img src={srcImage} alt="" />
     </figure>
 }

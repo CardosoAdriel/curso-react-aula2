@@ -1,8 +1,8 @@
 import './ContentCard.css'
 
-export default function ContentCard({ children }) {
+export default function ContentCard({ column, between, children }) {
 
-    return <div className="content">
+    return <div className={`content ${column} ${between}`}>
         {children}
     </div>
 }
