@@ -29,5 +29,11 @@
             "paragraph": "'Cupom: EUVOLTEI'"
         }
     ],
-    "usuarios": []
+    "users": [
+        {
+            "id": 1,
+            "email": "adriel@adriel.com",
+            "password": "123"
+        }
+    ]
 }
